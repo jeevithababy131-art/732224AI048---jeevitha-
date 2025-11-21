@@ -1,0 +1,4 @@
+- signin into n8n
+- create a project
+- # Screenshots:
+- <img width="745" height="266" alt="image" src="https://github.com/user-attachments/assets/72f7c0d7-da7f-4928-8a44-3d011c949b51" />
